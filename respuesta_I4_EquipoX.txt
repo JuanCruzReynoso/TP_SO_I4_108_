@@ -6,3 +6,8 @@ A- El color de la pagina quedó en BLUE
 B- El color de la pagina quedó en YELLOW
 C- El color de la pagina quedó en YELLOW
 D- Quedo el de Beta
+---------Respuestas Gamma------------
+A- El color de la pagina quedó en BLUE
+B- El color de la pagina quedó en YELLOW
+C- El color de la pagina quedó en YELLOW,ya que se hizo el merge de DESARROLLO por ultimo
+D- Quedo el de Beta
