@@ -16,6 +16,6 @@ no se puede subir el archivo.
 G- Cada vez que uno modifica y hace push del archivo, el siguiente en hacer el push
  debe hacer pull y lo mismo con el consiguiente. Tambien hay que tener en cuenta 
 hacer git status para prevenir este tipo de errores.
-H- Si cada uno utiliza push -f , se fuerza el push y se logra subir el archivo.
+H- Si cada uno utiliza push -f , se fuerza el push y se logra subir el archivo sobre escribiendo lo anterior. 
 I- Para que index.html tenga todos los <p>, cada uno debe tener su repositorio local
 actualizado tal cual está el remoto.
