@@ -7,3 +7,15 @@ A- El color de la pagina quedó en BLUE
 B- El color de la pagina quedó en YELLOW
 C- El color de la pagina quedó en YELLOW
 D- Quedo el de Beta
+
+
+E- Si, Beta y Gamma no pudieron hacer los push.
+F- Al modificar a la vez y pushear alfa primero, ya existe un push previo y el archivo 
+que estamos modificando no es el mismo que está en el repositorio remoto. Por lo tanto 
+no se puede subir el archivo.
+G- Cada vez que uno modifica y hace push del archivo, el siguiente en hacer el push
+ debe hacer pull y lo mismo con el consiguiente. Tambien hay que tener en cuenta 
+hacer git status para prevenir este tipo de errores.
+H- Si cada uno utiliza push -f , se fuerza el push y se logra subir el archivo.
+I- Para que index.html tenga todos los <p>, cada uno debe tener su repositorio local
+actualizado tal cual está el remoto.
